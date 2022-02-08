@@ -1,0 +1,4 @@
+version: "2.4"
+services:
+  git_gpg_docker:
+    image: docker.io/tiredpixel/git-gpg-docker:latest
