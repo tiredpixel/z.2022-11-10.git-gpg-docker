@@ -1,0 +1,5 @@
+.*/
+Dockerfile
+cache/
+docker-compose*.yml
+image/
