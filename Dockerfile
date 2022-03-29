@@ -1,5 +1,5 @@
 # FROMFREEZE docker.io/library/debian:10
-FROM docker.io/library/debian@sha256:c5ada51d78bc1704247df5953311a4f0257f8145dae1e343e3c9b0fea106bd10
+FROM docker.io/library/debian@sha256:fe75c6ff06eb65916c00a47fabcfaed28c049b37a9cc466eda54b5927888e544
 #-------------------------------------------------------------------------------
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
