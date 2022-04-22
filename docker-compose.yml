@@ -1,7 +1,5 @@
-# vim: set ft=yaml:
 version: '2.4'
 services:
   debian:
     build: .
-    #image: docker.io/tiredpixel/git-gpg-docker:latest
     command: [sleep, infinity]
