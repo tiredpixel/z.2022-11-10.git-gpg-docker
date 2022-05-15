@@ -13,7 +13,7 @@ The only stream is `latest`.
 Boot the stack:
 
 ```sh
-docker-compose up
+docker compose up
 ```
 
 
