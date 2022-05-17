@@ -8,20 +8,13 @@ https://github.com/tiredpixel/git-gpg-docker
 
 ## Installation
 
-The only stream is `latest`.
-
-Boot the stack:
+Compile and boot locally:
 
 ```sh
 docker compose up
 ```
 
-
-## Contact
-
-[tp@tiredpixel.com](mailto:tp@tiredpixel.com) · [www.tiredpixel.com](https://www.tiredpixel.com/)
-
-LinkedIn: [in/nic-williams](https://www.linkedin.com/in/nic-williams/) · Twitter: [tiredpixel](https://twitter.com/tiredpixel/) · GitHub: [tiredpixel](https://github.com/tiredpixel)
+Images are also published using the `latest` tag.
 
 
 ## Licence
