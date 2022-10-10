@@ -1,4 +1,4 @@
-FROM docker.io/library/debian@sha256:fa8155031d12cd165c237e0b38688cade32912e990ffe21f9e31968d9a04da38
+FROM docker.io/library/debian@sha256:604db908f7ce93379b1289c0c7ba73b252002087a3fa64fe904b430083ba5f69
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
